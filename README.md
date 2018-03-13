@@ -14,6 +14,7 @@
 	第三方依赖库安装(到python安装目录的script文件夹下运行cmd)：
 
 		pip3 install beautifulsoup4
+		pip3 install lxml
 
 	使用方法（如biqu.py:《笔趣看》盗版小说网站）：
 
