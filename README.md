@@ -21,6 +21,8 @@
 		python biqu.py
 
 * qichacha.py：简单爬取企查查相关企业信息，并以excel格式存储
+
+    参考：[读书笔记（十）——python简单爬取企查查网企业信息，并以excel格式存储](https://my.oschina.net/u/3629884/blog/1532275)
     
     环境
     
